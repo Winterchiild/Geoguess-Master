@@ -57,4 +57,9 @@
     "> 1%",
     "last 2 versions"
   ]
+},
+"main": "lib/index.js",
+"dependencies": {
+"firebase-admin": "^8.6.0",
+"firebase-functions": "^3.11.0"
 }
